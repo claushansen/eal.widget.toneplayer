@@ -1,0 +1,13 @@
+{
+	"id": "eal.widget.toneplayer",
+	"name": "eal.widget.toneplayer",
+	"description" : "Widget for playing the sounds in audiometry made easy",
+	"author": "Claus Hansen",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,mobileweb"
+}
